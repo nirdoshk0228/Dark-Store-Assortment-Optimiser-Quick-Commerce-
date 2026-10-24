@@ -30,6 +30,7 @@ top 60% of slots for best sellers and optimises the rest: +3.7 pp complete order
 4. **Hybrid:** lock the top 60% of slots to best sellers, then run the greedy for the rest.
 
 ## Run it
+**Data:** download the Instacart Market Basket dataset from [Kaggle](https://www.kaggle.com/c/instacart-market-basket-analysis/data) and put the six CSV files in a folder called `raw/`.
 ```bash
 pip install -r requirements.txt
 python src/prep.py --raw <folder with the Instacart CSVs> --out data   # ~15 s

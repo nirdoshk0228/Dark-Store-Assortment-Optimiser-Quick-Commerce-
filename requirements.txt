@@ -1,0 +1,6 @@
+pandas
+numpy
+scipy
+plotly
+pyarrow
+streamlit>=1.50

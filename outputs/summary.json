@@ -1,0 +1,16 @@
+{
+  "best_alpha": 0.05,
+  "store_size": 5000,
+  "test_orders": 131209,
+  "popularity_complete": 0.3071,
+  "greedy_complete": 0.3527,
+  "lift_pp": 4.56,
+  "lift_relative": 0.1486,
+  "popularity_item_coverage": 0.7972,
+  "greedy_item_coverage": 0.7451,
+  "skus_swapped": 1072,
+  "hybrid_complete": 0.3437,
+  "hybrid_item_coverage": 0.7805,
+  "hybrid_lift_pp": 3.66,
+  "popularity_skus_needed_to_match": 6000
+}
